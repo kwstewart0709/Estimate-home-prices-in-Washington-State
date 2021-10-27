@@ -1,5 +1,5 @@
 
-# Python-EDA-group
+# Estimating home prices in Washington state
 Predicting Prices of Homes Sold 
 
 This project is a part of the ADS-500B Data Science Programming course in the Applied Data Science Program at the University of San Diego.
